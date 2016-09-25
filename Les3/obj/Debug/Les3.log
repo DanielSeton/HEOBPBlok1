@@ -1,0 +1,18 @@
+﻿  main.cpp
+  ofApp.cpp
+  Particle.cpp
+  ParticleEmmitter.cpp
+     Creating library bin\Les3_debug.lib and object bin\Les3_debug.exp
+  Les3.vcxproj -> C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\apps\HEOBP\Les3\bin\Les3_debug.exe
+  Les3.vcxproj -> bin\Les3_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\
+  	  Nw. bestand 		 2939392	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\assimp.dll
+  	  Nw. bestand 		 1266176	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\fmodex.dll
+  	  Nw. bestand 		 1312768	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\fmodexL.dll
+  	  Nw. bestand 		 5647872	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\FreeImage.dll
+  	  Nw. bestand 		  580608	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\freetype.dll
+  	  Nw. bestand 		  237568	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\glut32.dll
+  	  Nw. bestand 		 1178624	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\libeay32.dll
+  	  Nw. bestand 		  269824	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\ssleay32.dll
+  	  Nw. bestand 		   69632	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\Zlib.dll

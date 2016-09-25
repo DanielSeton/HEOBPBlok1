@@ -13,5 +13,5 @@ class ofApp : public ofBaseApp
 
 		void keyPressed(int key);
 		
-		ParticleEmmitter = Partl
+		ParticleEmmitter partl;
 };
