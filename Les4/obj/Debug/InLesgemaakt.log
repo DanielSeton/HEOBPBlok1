@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ofApp.cpp
+  CurvingParticle.cpp
+  Particle.cpp
+  ParticleFactory.cpp
+  ParticleNieuw.cpp
+src\ParticleNieuw.cpp(5): error C2512: 'Particle': no appropriate default constructor available
+  c:\users\daniel\documents\school\c++\openframeworks\of_v0.9.3_vs_release\apps\heobp\inlesgemaakt\src\Particle.h(6): note: see declaration of 'Particle' (compiling source file src\ParticleNieuw.cpp)
