@@ -25,7 +25,7 @@ void ofApp::setup()
 //--------------------------------------------------------------
 void ofApp::update()
 {
-	for (int i = 0; i < particles.size();++i)
+	for (int i = 0; i < particles.size(); ++i)
 	{
 		particles[i]->move();
 	}
@@ -39,7 +39,8 @@ void ofApp::update()
 	Particle* freshParticle3 = factory3.emit();
 	particles.push_back(freshParticle3);
 
-	lifetime -= 2.0;
+	Particle* lifetime;
+
 }
 
 //--------------------------------------------------------------

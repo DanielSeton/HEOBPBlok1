@@ -2,8 +2,4 @@
 #include "Particle.h"
 
 
-Particle* ParticleReaper()
-{
-	
-}
 

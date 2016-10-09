@@ -4,24 +4,30 @@
 #include "ofMain.h"
 
 class Particle {
-    public:
-        Particle(int startX, int startY, ofColor inner, ofColor outer);
+public:
+	Particle(int startX, int startY, ofColor inner, ofColor outer);
 
-        virtual void move();
+	virtual void move();
 
-        void draw();
-		
-		void setColours(ofColor center, ofColor inner, ofColor outer);
+	void draw();
 
-    protected:
-        ofPoint position;
-        float radius;
-        ofVec2f speed;
-        float lifetime;
+	void update();
 
-        ofColor centerColour = ofColor::white;
-        ofColor innerColour;
-        ofColor outerColour;
+	bool IsDead();
+
+	void setColours(ofColor center, ofColor inner, ofColor outer);
+
+	int lifetime;
+
+protected:
+	ofPoint position;
+	float radius;
+	ofVec2f speed;
+
+
+	ofColor centerColour = ofColor::white;
+	ofColor innerColour;
+	ofColor outerColour;
 
 };
 
