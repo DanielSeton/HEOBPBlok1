@@ -1,0 +1,8 @@
+﻿  main.cpp
+  ofApp.cpp
+  Particle.cpp
+  ParticleReaper.cpp
+src\ofApp.cpp(42): error C2065: 'lifetime': undeclared identifier
+src\main.cpp(11): error C2280: 'ofApp::ofApp(void)': attempting to reference a deleted function
+  c:\users\daniel\documents\school\c++\openframeworks\of_v0.9.3_vs_release\apps\heobp\inlesgemaakt\src\ofApp.h(22): note: compiler has generated 'ofApp::ofApp' here
+c:\users\daniel\documents\school\c++\openframeworks\of_v0.9.3_vs_release\apps\heobp\inlesgemaakt\src\particlereaper.cpp(8): error C4716: 'ParticleReaper': must return a value
