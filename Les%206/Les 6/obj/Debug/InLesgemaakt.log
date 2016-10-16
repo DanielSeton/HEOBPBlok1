@@ -1,0 +1,14 @@
+﻿  main.cpp
+  ofApp.cpp
+  CurvingParticle.cpp
+  Particle.cpp
+  ParticleFactory.cpp
+  ParticleNieuw.cpp
+  ParticleReaper.cpp
+src\ofApp.cpp(42): warning C4101: 'lifetime': unreferenced local variable
+  LINK : bin\InLesgemaakt_debug.exe not found or not built by the last incremental link; performing full link
+     Creating library bin\InLesgemaakt_debug.lib and object bin\InLesgemaakt_debug.exp
+  InLesgemaakt.vcxproj -> C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\apps\HEOBP\les5\bin\InLesgemaakt_debug.exe
+  InLesgemaakt.vcxproj -> bin\InLesgemaakt_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\
