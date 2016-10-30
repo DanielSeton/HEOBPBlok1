@@ -2,7 +2,7 @@
 #include "CurvingParticle.h"
 #include "ParticleNieuw.h"
 
-Particle* ParticleFactory::instance()
+ParticleFactory* ParticleFactory::instance()
 {
 	if (!ParticleFactory::theOnlyOne)
 	{

@@ -1,14 +1,5 @@
-﻿  main.cpp
-  ofApp.cpp
-  CurvingParticle.cpp
-  Particle.cpp
-  ParticleFactory.cpp
-  ParticleNieuw.cpp
-  ParticleReaper.cpp
-src\ofApp.cpp(42): warning C4101: 'lifetime': unreferenced local variable
-  LINK : bin\InLesgemaakt_debug.exe not found or not built by the last incremental link; performing full link
+﻿  ofApp.cpp
+src\ofApp.cpp(30): warning C4101: 'lifetime': unreferenced local variable
      Creating library bin\InLesgemaakt_debug.lib and object bin\InLesgemaakt_debug.exp
-  InLesgemaakt.vcxproj -> C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\apps\HEOBP\les5\bin\InLesgemaakt_debug.exe
-  InLesgemaakt.vcxproj -> bin\InLesgemaakt_debug.pdb (Full PDB)
-  
-  	                   9	C:\Users\Daniel\Documents\School\C++\OpenFrameworks\of_v0.9.3_vs_release\export\vs\Win32\
+ParticleFactory.obj : error LNK2019: unresolved external symbol "private: __thiscall ParticleFactory::ParticleFactory(void)" (??0ParticleFactory@@AAE@XZ) referenced in function "public: static class ParticleFactory * __cdecl ParticleFactory::instance(void)" (?instance@ParticleFactory@@SAPAV1@XZ)
+bin\InLesgemaakt_debug.exe : fatal error LNK1120: 1 unresolved externals

@@ -14,7 +14,5 @@ class ofApp : public ofBaseApp{
 
 		vector<Particle*> particles;
 
-		ParticleFactory factory1;
-		ParticleFactory factory2;
-		ParticleFactory factory3;
+		ParticleFactory* factory1;
 };
