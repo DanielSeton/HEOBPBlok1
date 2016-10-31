@@ -10,16 +10,8 @@ public:
 
 	void move();
 
-	void setColours(ofColor center, ofColor inner, ofColor outer);
+	virtual void setColours(ofColor center, ofColor inner, ofColor outer);
 
-protected:
-	ofPoint position;
-	float radius;
-	long lifetime;
-
-	ofColor centerColour = ofColor::white;
-	ofColor innerColour = ofColor::red;
-	ofColor outerColour = ofColor::purple;
 
 };
 

@@ -1,5 +1,6 @@
 #include "ParticleFactory.h"
 #include "CurvingParticle.h"
+#include "ParticleNieuw.h"
 
 Particle* ParticleFactory::emit()
 {
